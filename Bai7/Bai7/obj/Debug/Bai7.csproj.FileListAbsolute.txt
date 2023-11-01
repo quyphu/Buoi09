@@ -1,0 +1,10 @@
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Bai7\Bai7\bin\Debug\Bai7.exe.config
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Bai7\Bai7\bin\Debug\Bai7.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Bai7\Bai7\bin\Debug\Bai7.pdb
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Bai7\Bai7\obj\Debug\Bai7.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Bai7\Bai7\obj\Debug\Bai7.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Bai7\Bai7\obj\Debug\Bai7.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Bai7\Bai7\obj\Debug\Bai7.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Bai7\Bai7\obj\Debug\Bai7.pdb
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Bai7\Bai7\obj\Debug\Bai7.Form2.resources
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy\Bai7\Bai7\obj\Debug\Bai7.QLKhoa.resources
